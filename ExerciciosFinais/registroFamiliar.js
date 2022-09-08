@@ -12,7 +12,7 @@ let family = {
     incomes: [2500, 3200, 250, 1670],
     expenses: [320, 1280, 350, 220]
 }
-function sum(array) {
+function sum(array) { 
     let total = 0;
 
     for (let value of array) {
